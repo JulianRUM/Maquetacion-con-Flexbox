@@ -21,3 +21,5 @@ flex-direction. Propiedad CSS que define la dirección de los elementos en el co
  * row-reverse: Elementos son colocados en la dirección opuesta al texto.
  * column: Elementos se colocan de arriba hacia abajo.
  * column-reverse: Elementos se colocan de abajo hacia arriba.
+
+ * Nota: cuando es una columna, **justify-content cambia a vertical y align-items a horizontal**.
