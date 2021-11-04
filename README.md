@@ -15,7 +15,7 @@
  * baseline: Muestra elementos en la línea base del contenedor
  * stretch: Elementos se estiran para ajustarse al contenedor.
 
-# Lvl 8.
+# Lvl 8-13.
 flex-direction. Propiedad CSS que define la dirección de los elementos en el contenedor, y acepta los siguientes valores:
  * row: Elementos son colocados en la misma dirección del texto.
  * row-reverse: Elementos son colocados en la dirección opuesta al texto.
@@ -23,3 +23,6 @@ flex-direction. Propiedad CSS que define la dirección de los elementos en el co
  * column-reverse: Elementos se colocan de abajo hacia arriba.
 
  * Nota: cuando es una columna, **justify-content cambia a vertical y align-items a horizontal**.
+
+# Lvl 14.
+En caso de que no sea suficiente invertir el orden de una fila o columna de un contenedor, podemos usar **Order**, este nos permitira reoordenar los elementos individuales.
