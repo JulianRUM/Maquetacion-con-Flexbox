@@ -33,3 +33,13 @@ En caso de que no sea suficiente invertir el orden de una fila o columna de un c
  * nowrap: Cada elemento se ajusta en una sola línea.
  * wrap: los elementos se envuelven alrededor de líneas adicionales.
  * wrap-reverse: Los elementos se envuelven alrededor de líneas adicionales en reversa.
+
+# Lvl 21.
+Se puede usar align-content para establecer como múltiples líneas están separadas una de otra. Esta propiedad acepta los siguientes valores:
+
+ * flex-start: Las líneas se posicionan en la parte superior del contenedor.
+ * flex-end: Las líneas se posicionan en la parte inferior del contenedor.
+ * center: Las líneas se posicionan en el centro (verticalmente hablando) del contenedor.
+ * space-between: Las líneas se muestran con la misma distancia entre ellas.
+ * space-around: Las líneas se muestran con la misma separación alrededor de ellas.
+ * stretch: Las líneas se estiran para ajustarse al contenedor.
