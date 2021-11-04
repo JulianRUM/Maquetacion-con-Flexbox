@@ -1,13 +1,13 @@
 # Data from Flexbox Froppy and company .
 
-# Lvl 1,2,3 y 4.
+# Lvl 1-4.
  * flex-start: Alinea elementos al lado izquierdo del contenedor.
  * flex-end: Alinea elementos al lado derecho del contenedor.
  * center: Alinea elementos en el centro del contenedor.
  * space-between: Muestra elementos con la misma distancia entre ellos.
  * space-around: Muestra elementos con la misma separación alrededor de ellos.
 
-# Lvl 5,6 y 7.
+# Lvl 5-7.
  align-items. Esta propiedad CSS alinea elementos verticalmente y acepta los siguientes valores:
  * flex-start: Alinea elementos a la parte superior del contenedor.
  * flex-end: Alinea elementos a la parte inferior del contenedor.
