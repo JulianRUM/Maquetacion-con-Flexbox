@@ -1,6 +1,6 @@
 # Datos a tener en cuenta de Flexbox Froggy.
 
-# Level 1
+# Level 1,2,3 y 4.
  * flex-start: Alinea elementos al lado izquierdo del contenedor.
  * flex-end: Alinea elementos al lado derecho del contenedor.
  * center: Alinea elementos en el centro del contenedor.
