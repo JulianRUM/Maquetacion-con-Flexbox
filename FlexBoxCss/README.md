@@ -24,5 +24,12 @@ flex-direction. Propiedad CSS que define la dirección de los elementos en el co
 
  * Nota: cuando es una columna, **justify-content cambia a vertical y align-items a horizontal**.
 
-# Lvl 14.
+# Lvl 14-17.
 En caso de que no sea suficiente invertir el orden de una fila o columna de un contenedor, podemos usar **Order**, este nos permitira reoordenar los elementos individuales.
+
+# Lvl 18.
+¡Recorcholis! Todas las ranas están apretadas en una sola fila de hojas de lirio. Manos a la obra, vamos a distribuirlas correctamente usando la propiedad **flex-wrap**, la cual acepta los siguientes valores:
+
+ * nowrap: Cada elemento se ajusta en una sola línea.
+ * wrap: los elementos se envuelven alrededor de líneas adicionales.
+ * wrap-reverse: Los elementos se envuelven alrededor de líneas adicionales en reversa.
