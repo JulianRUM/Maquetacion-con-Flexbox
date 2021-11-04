@@ -43,3 +43,6 @@ Se puede usar align-content para establecer como múltiples líneas están separ
  * space-between: Las líneas se muestran con la misma distancia entre ellas.
  * space-around: Las líneas se muestran con la misma separación alrededor de ellas.
  * stretch: Las líneas se estiran para ajustarse al contenedor.
+
+# Todo lo aprendido:
+  Yiaju! con el dominio de **FlexBox logre ayudar a los renacuajos a volver a casa xd**
